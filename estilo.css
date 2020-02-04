@@ -27,13 +27,13 @@ cite{
 p.latin{
     margin: auto;
     font-family: 'Lobster', cursive;
-    font-size: ;
+    font-size: 280% ;
 }
 p.espanol{
-    margin: auto;
+    margin: 0 0 3rem;
     font-family: 'Just Another Hand', cursive;
     color: white;
-    font-size: 200%;
-    letter-spacing: 10px;
+    font-size: 320%;
+    letter-spacing: 1px;
     text-align: right;
 }
